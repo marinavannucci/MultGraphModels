@@ -4,7 +4,7 @@
 #
 # The provided Matlab files for Bayesian inference of multiple graphical models are  associated with the following publication:
 #
-# Shaddox, E., Stingo, F., Peterson, C.B., Jacobson, S., Cruickshank-Quinn, C., Kechris, K., Bowler, R. and Vannucci, M. (2016). A Bayesian Approach for Learning Gene Networks Underlying Disease Severity in COPD. Statistics in Biosciences, accepted.
+# Shaddox, E., Stingo, F., Peterson, C.B., Jacobson, S., Cruickshank-Quinn, C., Kechris, K., Bowler, R. and Vannucci, M. (2018). A Bayesian Approach for Learning Gene Networks Underlying Disease Severity in COPD. Statistics in Biosciences, 10(1), 59-85.
 #
 # These scripts rely on functions from the Matlab code for G-wishart sampling provided by Hao Wang at https://msu.edu/~haowang/ and are associated with the following publications
 #
